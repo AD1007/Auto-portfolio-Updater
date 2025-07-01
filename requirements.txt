@@ -1,1 +1,3 @@
-
+requests
+PyGithub
+feedparser  # Optional for RSS feeds
